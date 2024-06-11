@@ -4,8 +4,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
- <th><a href="https://github.com/Kaws12345/datavalization
-     ">資料視覺化作業</a></th>
+ <th><a href="https://github.com/Kaws12345/datavalization">資料視覺化作業</a></th>
  <th><a href="https://chat.openai.com/">好友</a></th>
  </tr>
  <tr>
@@ -17,7 +16,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
  <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
- <td><a href="">資料視覺化</a></td>
+ <td><a href="https://github.com/Kaws12345/datavalization">資料視覺化</a></td>
  <td>張 O 庭</td>
  </tr>
 
