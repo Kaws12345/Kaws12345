@@ -4,7 +4,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
- <th><a href="">學習履歷</a></th>
+ <th><a href="">資料視覺化作業</a></th>
  <th><a href="https://chat.openai.com/">好友</a></th>
  </tr>
  <tr>
